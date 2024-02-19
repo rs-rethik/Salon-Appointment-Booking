@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include salon_appointment *.css
+recursive-include salon_appointment *.csv
+recursive-include salon_appointment *.html
+recursive-include salon_appointment *.ico
+recursive-include salon_appointment *.js
+recursive-include salon_appointment *.json
+recursive-include salon_appointment *.md
+recursive-include salon_appointment *.png
+recursive-include salon_appointment *.py
+recursive-include salon_appointment *.svg
+recursive-include salon_appointment *.txt
+recursive-exclude salon_appointment *.pyc
