@@ -1,5 +1,5 @@
 <template>
-  <div class="p-15">
+  <div class="p-8">
     <SalonDetails />
   </div>
 </template>
